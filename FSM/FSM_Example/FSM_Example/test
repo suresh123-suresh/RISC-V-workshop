@@ -1,0 +1,59 @@
+root@srv652878:/var/www/taskmgmt_backend# cat .env
+# ==============================================================
+# ENTERPRISE AI TASK MANAGEMENT SYSTEM
+# Backend Environment Configuration
+# ==============================================================
+
+NODE_ENV=development
+PORT=5000
+
+# Database
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=task_mgmt
+DB_USER=task_user
+DB_PASSWORD=TaskMgmt123!
+DB_POOL_MIN=2
+DB_POOL_MAX=20
+
+# JWT
+JWT_SECRET=your-super-secret-jwt-key-change-in-production-min-64-chars
+JWT_EXPIRES_IN=15m
+JWT_REFRESH_SECRET=your-super-secret-refresh-key-change-in-production
+JWT_REFRESH_EXPIRES_IN=7d
+
+# Redis
+REDIS_HOST=localhost
+REDIS_PORT=6379
+REDIS_PASSWORD=
+
+# Email (SMTP)
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=your-email@gmail.com
+SMTP_PASS=your-app-password
+SMTP_FROM=noreply@taskms.com
+
+# File Upload
+UPLOAD_DIR=./uploads
+MAX_FILE_SIZE=50mb
+ALLOWED_FILE_TYPES=pdf,doc,docx,xls,xlsx,ppt,pptx,png,jpg,jpeg,gif,mp4,mp3,wav,txt,csv
+
+# AI Configuration
+AI_PROVIDER=ollama
+OLLAMA_URL=http://localhost:11434
+AI_MODEL=llama3
+OPENAI_API_KEY=
+
+# RAG Server
+RAG_SERVER_URL=http://localhost:8000
+
+# Encryption
+ENCRYPTION_KEY=32-byte-hex-encryption-key-here
+
+# Frontend URL
+FRONTEND_URL=https://starking.brandspyre.in
+
+# Admin defaults (change after first login)
+DEFAULT_ADMIN_EMAIL=admin@taskms.com
+DEFAULT_ADMIN_PASSWORD=Admin@123

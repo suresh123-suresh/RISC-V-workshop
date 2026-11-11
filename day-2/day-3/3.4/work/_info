@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/day-3/3.4
+vriscv_2stage
+!s110 1794390040
+!i10b 1
+!s100 3K<j8@d3ZXc=Y7:anNQGO0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INT?maHzf_8X^M<EoVOd`i1
+R0
+Z2 w1794390005
+8riscv_2stage.v
+Friscv_2stage.v
+!i122 0
+L0 15 197
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794390040.000000
+!s107 riscv_2stage.v|
+!s90 -reportprogress|300|riscv_2stage.v|
+!i113 1
+Z6 tCvgOpt 0
+vtb_riscv_waveform
+!s110 1794390041
+!i10b 1
+!s100 >QmI5aO3<`T]1F:Mg_4oP2
+R1
+IO<Z9K[hKcl5aj:0TWSX_O0
+R0
+R2
+8tb_riscv_waveform.v
+Ftb_riscv_waveform.v
+!i122 1
+L0 3 28
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 tb_riscv_waveform.v|
+!s90 -reportprogress|300|tb_riscv_waveform.v|
+!i113 1
+R6

@@ -1,0 +1,11 @@
+// Taken BEQ, not-taken BEQ, JAL and wrong-path instructions
+00500093 // PC 00
+00108463 // PC 04
+06300113 // PC 08
+00700193 // PC 0c
+00100463 // PC 10
+00900213 // PC 14
+0080036f // PC 18
+05800393 // PC 1c
+00b00293 // PC 20
+0000006f // PC 24

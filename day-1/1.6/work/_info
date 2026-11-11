@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/day-1/1.6
+vdecoder3to8
+Z1 !s110 1794387813
+!i10b 1
+!s100 g1aD^`@AeO<hY:gn[BQk43
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRdA@o<eLa^]LAoaW6nWkV3
+R0
+Z3 w1794387723
+Z4 8encoder.v
+Z5 Fencoder.v
+!i122 1
+L0 44 11
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z8 !s108 1794387813.000000
+!s107 encoder_decoder_tb.v|encoder.v|
+Z9 !s90 -reportprogress|300|encoder.v|encoder_decoder_tb.v|
+!i113 1
+Z10 tCvgOpt 0
+vencoder_decoder_tb
+R1
+!i10b 1
+!s100 GU4V=4MR^8C2m@1a7^4?g3
+R2
+I9Ge3hhlGFVJFPd^=K>dY32
+R0
+R3
+8encoder_decoder_tb.v
+Fencoder_decoder_tb.v
+!i122 1
+L0 2 63
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 encoder_decoder_tb.v|encoder.v|
+R9
+!i113 1
+R10
+vpriority_encoder_casez
+R1
+!i10b 1
+!s100 GKlO_`VTU_j1?bEClWVna0
+R2
+IJI;>dmezMVLeOH3R;3A3T1
+R0
+R3
+R4
+R5
+!i122 1
+L0 3 20
+R6
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10
+vpriority_encoder_if
+R1
+!i10b 1
+!s100 [c=e:IN3_4UdlC7[eOR4g0
+R2
+ImY3XAkieoPIMomcT=;IRe2
+R0
+R3
+R4
+R5
+!i122 1
+L0 24 19
+R6
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

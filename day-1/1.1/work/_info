@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/day-1/1.1
+valu
+Z1 !s110 1794384750
+!i10b 1
+!s100 <6EPGWIlKIcCQDCR<YQ1:2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<^X=X6TLLQb1fV0SH4Eg<3
+R0
+w1794384455
+8alu.v
+Falu.v
+!i122 0
+L0 7 85
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794384750.000000
+!s107 alu_tb.v|alu.v|
+Z6 !s90 -reportprogress|300|alu.v|alu_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+valu_tb
+R1
+!i10b 1
+!s100 S2lff_i?J43NR31?iij2j2
+R2
+I0SZ97c@bO:X;]Lf9j[2_02
+R0
+w1794384517
+8alu_tb.v
+Falu_tb.v
+!i122 0
+L0 3 122
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 alu_tb.v|alu.v|
+R6
+!i113 1
+R7

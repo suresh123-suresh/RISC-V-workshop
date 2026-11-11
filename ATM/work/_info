@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/ATM
+vatm_fsm
+!s110 1793683462
+!i10b 1
+!s100 [X3?ah[^UJQ=o>_RE4ai73
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZJz=geG^S@0cIk6I;za[=2
+R0
+w1793683275
+8atm.v
+Fatm.v
+!i122 0
+L0 2 105
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z4 !s108 1793683461.000000
+!s107 atm.v|atm_tb.v|
+Z5 !s90 -reportprogress|300|atm_tb.v|atm.v|
+!i113 1
+Z6 tCvgOpt 0
+vatm_fsm_tb
+!s110 1793683461
+!i10b 1
+!s100 :8cXU@UPI^8Pzc?:`20`J2
+R1
+IgaNkHeF=G4<YYmFeMGH:<2
+R0
+w1793683384
+8atm_tb.v
+Fatm_tb.v
+!i122 0
+L0 4 76
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 atm.v|atm_tb.v|
+R5
+!i113 1
+R6

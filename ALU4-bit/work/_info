@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/ALU4-bit
+valu4
+Z1 !s110 1793430901
+!i10b 1
+!s100 i<RSbEGb>m7L@;0<7f`E_1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOggaj1SG7Q8M3lHO;NcI@0
+R0
+Z3 w1793427493
+8alu4.v
+Falu4.v
+!i122 0
+L0 3 63
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z6 !s108 1793430900.000000
+!s107 alu4.v|alu4_tb.v|
+Z7 !s90 -reportprogress|300|alu4_tb.v|alu4.v|
+!i113 1
+Z8 tCvgOpt 0
+valu4_tb
+R1
+!i10b 1
+!s100 UV]66d`TOUn9G`MW;nnQG2
+R2
+I:^CMK5[B6bf5geCdl?;3[3
+R0
+R3
+8alu4_tb.v
+Falu4_tb.v
+!i122 0
+L0 3 87
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 alu4.v|alu4_tb.v|
+R7
+!i113 1
+R8

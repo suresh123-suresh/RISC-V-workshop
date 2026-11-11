@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/Dflipflop
+vd_flip_flop
+Z1 !s110 1793597356
+!i10b 1
+!s100 hN=ic37@Logan2_QOM@Ug0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IehKQmD750:jFhCL[Y^FU@2
+R0
+w1793596186
+8d_ff.v
+Fd_ff.v
+!i122 0
+L0 2 14
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1793597356.000000
+!s107 d_tb.v|d_ff.v|
+Z6 !s90 -reportprogress|300|d_ff.v|d_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vd_tb
+R1
+!i10b 1
+!s100 ho?ndgcfnKTlMF^Ol27Vm3
+R2
+I3jOXb@oiW:H[N6dGWz@U_1
+R0
+w1793597045
+8d_tb.v
+Fd_tb.v
+!i122 0
+L0 4 37
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 d_tb.v|d_ff.v|
+R6
+!i113 1
+R7

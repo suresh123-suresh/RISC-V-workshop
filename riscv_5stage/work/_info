@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/riscv_5stage
+vriscv_5stage
+Z1 !s110 1793699776
+!i10b 1
+!s100 :2L`H_0jXn@Sg>MWV3Bl`1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICh9EM@@z4<:zLS8T83zZW2
+R0
+w1793699454
+8riscv_5stage.v
+Friscv_5stage.v
+!i122 0
+L0 4 522
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1793699776.000000
+!s107 tb_riscv_5stage.v|riscv_5stage.v|
+Z6 !s90 -reportprogress|300|riscv_5stage.v|tb_riscv_5stage.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_riscv_5stage
+R1
+!i10b 1
+!s100 X`]F[:l3Il<bomRJP^J^^2
+R2
+IO8oVPVIAUHYmXQ4Bg1^M@1
+R0
+w1793699729
+8tb_riscv_5stage.v
+Ftb_riscv_5stage.v
+!i122 0
+L0 4 201
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_riscv_5stage.v|riscv_5stage.v|
+R6
+!i113 1
+R7

@@ -1,0 +1,33 @@
+`timescale 1ns/1ps
+
+module elevator_tb;
+		reg [2:0] a;
+		reg clk, rst;
+		wire [2:0] q, reached;
+		wire up, down;
+
+
+elevator uut(a, clk, rst, q, up, down, reached);
+
+always #5 clk = ~clk;
+
+initial begin
+	clk = 1'b0;
+	rst = 1'b1;
+	a = 3'b000;
+	
+	#10 rst = 1'b0;
+
+	#10 a = 3'b100;
+	#60 a = 3'b010;
+	#40 a = 3'b000;
+	#40 a = 3'b011;
+
+	#60 $finish;
+end
+initial begin
+    $monitor("Time=%0t | Requested Floor(a)=%0d | Current Floor(q)=%0d | UP=%b | DOWN=%b | REACHED=%0d",
+             $time, a, q, up, down, reached);
+end
+endmodule
+

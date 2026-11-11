@@ -1,0 +1,12 @@
+// program1.hex
+// One 32-bit instruction per line; comments are ignored by $readmemh.
+00a00093 // 0000: addi x1,x0,10
+00000113 // 0004: addi x2,x0,0
+00100193 // 0008: addi x3,x0,1
+00310133 // 000c: add x2,x2,x3
+00118193 // 0010: addi x3,x3,1
+fff08093 // 0014: addi x1,x1,-1
+00008463 // 0018: beq x1,x0,+8
+fe0008e3 // 001c: beq x0,x0,-16
+00202023 // 0020: sw x2,0(x0)
+00000013 // 0024: nop

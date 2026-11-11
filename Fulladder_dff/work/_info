@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saivi/Downloads/FPGA/Model Sim/Project/Fulladder_dff
+vadder_dff
+Z1 !s110 1793603629
+!i10b 1
+!s100 k4Fc>:mO1o`3nd<^@Lk_c2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICXgW;`3b__;:S;;`nVf>N0
+R0
+w1793603602
+Z3 8fa_dff.v
+Z4 Ffa_dff.v
+!i122 0
+Z5 L0 3 39
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z8 !s108 1793603628.000000
+Z9 !s107 fa_dff_tb.v|fa_dff.v|
+Z10 !s90 -reportprogress|300|fa_dff.v|fa_dff_tb.v|
+!i113 1
+Z11 tCvgOpt 0
+vadder_tb
+R1
+!i10b 1
+!s100 Ell>c4H:FIj<;78:4z1C32
+R2
+I1P??9gg_RTdAFjPYCO_WG3
+R0
+w1793603621
+Z12 8fa_dff_tb.v
+Z13 Ffa_dff_tb.v
+!i122 0
+Z14 L0 4 53
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vfa_dff
+Z15 !s110 1793603715
+!i10b 1
+!s100 5cK:?0T2nh7LZ=C1egIO42
+R2
+I6Kb<X3zZVag0z:?]K@WPQ3
+R0
+w1793603701
+R3
+R4
+!i122 1
+R5
+R6
+R7
+r1
+!s85 0
+31
+Z16 !s108 1793603715.000000
+R9
+R10
+!i113 1
+R11
+vfa_dff_tb
+R15
+!i10b 1
+!s100 W>kRJET74Cf4j2T033E^b2
+R2
+IYm[3B>i;DVlGP9^<<EN=o1
+R0
+w1793603710
+R12
+R13
+!i122 1
+R14
+R6
+R7
+r1
+!s85 0
+31
+R16
+R9
+R10
+!i113 1
+R11
